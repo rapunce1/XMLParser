@@ -1,8 +1,0 @@
-com/rapunce1/parser/MyHandler.java
- com.rapunce1.parser.MyHandler
-com/rapunce1/struct/City.java
- com.rapunce1.struct.City
-com/rapunce1/struct/Struct.java
- com.rapunce1.struct.Struct
-com/rapunce1/main/Main.java
- com.rapunce1.main.Main
